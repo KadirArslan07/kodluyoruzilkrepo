@@ -30,6 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-New Repo
-
-[![image](https://r.resimlink.com/4o1aZIweWOJj.png)](https://resimlink.com/4o1aZIweWOJj)
+[![image](https://r.resimlink.com/Swo7M5EXi6Pt.jpeg)](https://resimlink.com/Swo7M5EXi6Pt)
