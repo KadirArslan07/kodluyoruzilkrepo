@@ -31,3 +31,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 New Repo
+
+[![image](https://r.resimlink.com/4o1aZIweWOJj.png)](https://resimlink.com/4o1aZIweWOJj)
